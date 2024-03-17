@@ -133,4 +133,9 @@ git branch -D <имя_ветки>
 
 ### Связка локального репозитория с удаленным
 
+```bash
+git remote add origin <https://github.com/SergioBest/SCV_GitPR.git>
+```
+В данном случае адрес на ГитХабе взят из частного случая для примера.
+
 
