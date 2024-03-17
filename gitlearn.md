@@ -138,4 +138,8 @@ git remote add origin <https://github.com/SergioBest/SCV_GitPR.git>
 ```
 В данном случае адрес на ГитХабе взят из частного случая для примера.
 
+### отправка локального депозитория в удаленный выполняется командой
+```bash
+git push -u origin main
+```
 
